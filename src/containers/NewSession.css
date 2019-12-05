@@ -1,0 +1,10 @@
+.NewSession form {
+    padding-bottom: 15px;
+  }
+  .NewSession form textarea {
+    height: 40px;
+    font-size: 24px;
+  }
+#name, #nameform {display: inline-block; padding-right:3em}
+
+#description, #desform {display: inline-block;padding-right:3em}
